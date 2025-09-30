@@ -6,7 +6,7 @@ O app é um contador customizado, com funcionalidades além do incremento padrã
 - Incrementar
 - Decrementar (com decremento duplo)  
 - Multiplicar por 2
-- Resetar* 
+- Resetar
 
 Além disso, a cor do contador muda automaticamente a cada 5 cliques, proporcionando feedback visual ao usuário.
 
@@ -105,7 +105,5 @@ flutter pub get
 
 # Execute o app
 flutter run
-```
 
----
 
